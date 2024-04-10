@@ -1,0 +1,60 @@
+{
+  "id": "Australia and Oceania",
+  "title": "Australia and Oceania",
+  "continent": "Australia and Oceania",
+  "latitude": -23.698,
+  "longitude": 133.8807,
+  "objects": [
+	{
+	  "id": "Canberra",
+	  "title": "Canberra",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": -35.282,
+	  "longitude": 149.1287,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Wellington",
+	  "title": "Wellington",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": -41.2865,
+	  "longitude": 174.7762,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Suva",
+	  "title": "Suva",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": -18.1248,
+	  "longitude": 178.4501,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Port Moresby",
+	  "title": "Port Moresby",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": -9.4438,
+	  "longitude": 147.1803,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Apia",
+	  "title": "Apia",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": -13.833,
+	  "longitude": -171.833,
+	  "description": "",
+	  "isFound": false
+	}
+  ]
+}
+

@@ -1,0 +1,391 @@
+{
+  "id": "Europe",
+  "title": "Europe",
+  "continent": "Europe",
+  "latitude": 51.1657,
+  "longitude": 10.4515,
+  "objects": [
+	{
+	  "id": "Paris",
+	  "title": "Paris",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 48.8566,
+	  "longitude": 2.3522,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Berlin",
+	  "title": "Berlin",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 52.5200,
+	  "longitude": 13.4050,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "London",
+	  "title": "London",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 51.5074,
+	  "longitude": -0.1278,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Rome",
+	  "title": "Rome",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 41.9028,
+	  "longitude": 12.4964,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Madrid",
+	  "title": "Madrid",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 40.4168,
+	  "longitude": -3.7038,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Oslo",
+	  "title": "Oslo",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 59.9139,
+	  "longitude": 10.7522,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Stockholm",
+	  "title": "Stockholm",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 59.3293,
+	  "longitude": 18.0686,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Copenhagen",
+	  "title": "Copenhagen",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 55.6761,
+	  "longitude": 12.5683,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Vienna",
+	  "title": "Vienna",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 48.2082,
+	  "longitude": 16.3738,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Athens",
+	  "title": "Athens",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 37.9838,
+	  "longitude": 23.7275,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Amsterdam",
+	  "title": "Amsterdam",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 52.3676,
+	  "longitude": 4.9041,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Brussels",
+	  "title": "Brussels",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 50.8503,
+	  "longitude": 4.3517,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bern",
+	  "title": "Bern",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 46.9480,
+	  "longitude": 7.4474,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Prague",
+	  "title": "Prague",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 50.0755,
+	  "longitude": 14.4378,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Warsaw",
+	  "title": "Warsaw",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 52.2297,
+	  "longitude": 21.0122,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Lisbon",
+	  "title": "Lisbon",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 38.7223,
+	  "longitude": -9.1393,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Dublin",
+	  "title": "Dublin",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 53.3498,
+	  "longitude": -6.2603,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Budapest",
+	  "title": "Budapest",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 47.4979,
+	  "longitude": 19.0402,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bucharest",
+	  "title": "Bucharest",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 44.4268,
+	  "longitude": 26.1025,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bratislava",
+	  "title": "Bratislava",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 48.1486,
+	  "longitude": 17.1077,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Helsinki",
+	  "title": "Helsinki",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 60.1695,
+	  "longitude": 24.9354,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Vilnius",
+	  "title": "Vilnius",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 54.6872,
+	  "longitude": 25.2797,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Riga",
+	  "title": "Riga",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 56.9496,
+	  "longitude": 24.1052,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Tallinn",
+	  "title": "Tallinn",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 59.4370,
+	  "longitude": 24.7536,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Nicosia",
+	  "title": "Nicosia",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 35.1856,
+	  "longitude": 33.3823,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Valletta",
+	  "title": "Valletta",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 35.8989,
+	  "longitude": 14.5146,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Andorra la Vella",
+	  "title": "Andorra la Vella",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 42.5063,
+	  "longitude": 1.5218,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "San Marino",
+	  "title": "San Marino",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 43.9424,
+	  "longitude": 12.4578,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Vatican City",
+	  "title": "Vatican City",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 41.9029,
+	  "longitude": 12.4534,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Monaco",
+	  "title": "Monaco",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 43.7384,
+	  "longitude": 7.4246,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Ljubljana",
+	  "title": "Ljubljana",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 46.0569,
+	  "longitude": 14.5058,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Zagreb",
+	  "title": "Zagreb",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 45.8150,
+	  "longitude": 15.9819,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Moscow",
+	  "title": "Moscow",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 55.7558,
+	  "longitude": 37.6176,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Kyiv",
+	  "title": "Kyiv",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 50.4501,
+	  "longitude": 30.5234,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Sofia",
+	  "title": "Sofia",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 42.6977,
+	  "longitude": 23.3219,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Belgrade",
+	  "title": "Belgrade",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 44.7866,
+	  "longitude": 20.4489,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bucharest",
+	  "title": "Bucharest",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 44.4268,
+	  "longitude": 26.1025,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Chisinau",
+	  "title": "Chisinau",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 47.0105,
+	  "longitude": 28.8638,
+	  "description": "",
+	  "isFound": false
+	}
+  ]
+}
+
+

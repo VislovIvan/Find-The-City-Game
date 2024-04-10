@@ -1,0 +1,1261 @@
+[
+{
+  "id": "North America",
+  "title": "North America",
+  "continent": "North America",
+  "latitude": 37.0902,
+  "longitude": -95.7129,
+  "objects": [
+	{
+	  "id": "Ottawa",
+	  "title": "Ottawa",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 45.4215,
+	  "longitude": -75.6919,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Washington, D.C.",
+	  "title": "Washington, D.C.",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 38.9072,
+	  "longitude": -77.0369,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+		"id": "New York",
+		"title": "New York City",
+		"category": {"city":{}},
+		"facts": [],
+		"latitude": 40.7128,
+		"longitude": -74.0060,
+		"description": "",
+		"isFound": false
+	  },
+	  {
+		"id": "Los Angeles",
+		"title": "Los Angeles",
+		"category": {"city":{}},
+		"facts": [],
+		"latitude": 34.0522,
+		"longitude": -118.2437,
+		"description": "",
+		"isFound": false
+	  },
+	  {
+		"id": "Chicago",
+		"title": "Chicago",
+		"category": {"city":{}},
+		"facts": [],
+		"latitude": 41.8781,
+		"longitude": -87.6298,
+		"description": "",
+		"isFound": false
+	  },
+	  {
+		"id": "Houston",
+		"title": "Houston",
+		"category": {"city":{}},
+		"facts": [],
+		"latitude": 29.7604,
+		"longitude": -95.3698,
+		"description": "",
+		"isFound": false
+	  },
+	  {
+		"id": "Phoenix",
+		"title": "Phoenix",
+		"category": {"city":{}},
+		"facts": [],
+		"latitude": 33.4484,
+		"longitude": -112.0740,
+		"description": "",
+		"isFound": false
+	  },
+	{
+	  "id": "Mexico City",
+	  "title": "Mexico City",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 19.4326,
+	  "longitude": -99.1332,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Guatemala City",
+	  "title": "Guatemala City",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 14.6349,
+	  "longitude": -90.5069,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Belmopan",
+	  "title": "Belmopan",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 17.251,
+	  "longitude": -88.759,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Tegucigalpa",
+	  "title": "Tegucigalpa",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 14.0723,
+	  "longitude": -87.1921,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "San Salvador",
+	  "title": "San Salvador",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 13.6929,
+	  "longitude": -89.2182,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Managua",
+	  "title": "Managua",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 12.114,
+	  "longitude": -86.2362,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "San Jose",
+	  "title": "San Jose",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 9.9281,
+	  "longitude": -84.0907,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Panama City",
+	  "title": "Panama City",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 8.9824,
+	  "longitude": -79.5199,
+	  "description": "",
+	  "isFound": false
+	}
+  ]
+},
+
+{
+  "id": "South America",
+  "title": "South America",
+  "continent": "South America",
+  "latitude": -14.235,
+  "longitude": -51.9253,
+  "objects": [
+	{
+	  "id": "Sao Paulo",
+	  "title": "Sao Paulo",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -23.5505,
+	  "longitude": -46.6333,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Buenos Aires",
+	  "title": "Buenos Aires",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -34.6037,
+	  "longitude": -58.3816,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Rio de Janeiro",
+	  "title": "Rio de Janeiro",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -22.9068,
+	  "longitude": -43.1729,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Lima",
+	  "title": "Lima",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -12.0464,
+	  "longitude": -77.0428,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bogota",
+	  "title": "Bogota",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 4.7109,
+	  "longitude": -74.0721,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Santiago",
+	  "title": "Santiago",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -33.4489,
+	  "longitude": -70.6693,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Brasilia",
+	  "title": "Brasilia",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -15.8267,
+	  "longitude": -47.9218,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Leticia",
+	  "title": "Leticia",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -4.2153,
+	  "longitude": -69.9408,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Quito",
+	  "title": "Quito",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -0.1807,
+	  "longitude": -78.4678,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Guayaquil",
+	  "title": "Guayaquil",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -2.1709,
+	  "longitude": -79.9224,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "La Paz",
+	  "title": "La Paz",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -16.4897,
+	  "longitude": -68.1193,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Paramaribo",
+	  "title": "Paramaribo",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 5.852,
+	  "longitude": -55.2038,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Cayenne",
+	  "title": "Cayenne",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 4.922,
+	  "longitude": -52.3135,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Georgetown",
+	  "title": "Georgetown",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 6.8013,
+	  "longitude": -58.1551,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Port of Spain",
+	  "title": "Port of Spain",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 10.6549,
+	  "longitude": -61.5177,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Montevideo",
+	  "title": "Montevideo",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -34.9011,
+	  "longitude": -56.1645,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Asuncion",
+	  "title": "Asuncion",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -25.2637,
+	  "longitude": -57.5759,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Cochabamba",
+	  "title": "Cochabamba",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -17.3932,
+	  "longitude": -66.1561,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Santa Cruz de la Sierra",
+	  "title": "Santa Cruz de la Sierra",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -17.8,
+	  "longitude": -63.1667,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Campo Grande",
+	  "title": "Campo Grande",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -20.4697,
+	  "longitude": -54.6201,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Cuiaba",
+	  "title": "Cuiaba",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -15.601,
+	  "longitude": -56.0974,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Boa Vista",
+	  "title": "Boa Vista",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 2.8235,
+	  "longitude": -60.6753,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Manaus",
+	  "title": "Manaus",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -3.119,
+	  "longitude": -60.0217,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Teresina",
+	  "title": "Teresina",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -5.0919,
+	  "longitude": -42.8034,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Fortaleza",
+	  "title": "Fortaleza",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -3.7172,
+	  "longitude": -38.5431,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Joao Pessoa",
+	  "title": "Joao Pessoa",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -7.115,
+	  "longitude": -34.8641,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Belem",
+	  "title": "Belem",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -1.4558,
+	  "longitude": -48.5044,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Porto Velho",
+	  "title": "Porto Velho",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -8.7608,
+	  "longitude": -63.9019,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Palmas",
+	  "title": "Palmas",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -10.1837,
+	  "longitude": -48.333,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Salvador",
+	  "title": "Salvador",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -12.9714,
+	  "longitude": -38.5014,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Recife",
+	  "title": "Recife",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -8.0476,
+	  "longitude": -34.877,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Natal",
+	  "title": "Natal",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -5.7945,
+	  "longitude": -35.211,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Macapa",
+	  "title": "Macapa",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 0.0349,
+	  "longitude": -51.0668,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Rio Branco",
+	  "title": "Rio Branco",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -9.9738,
+	  "longitude": -67.8249,
+	  "description": "",
+	  "isFound": false
+	}
+  ]
+},
+
+{
+  "id": "Europe",
+  "title": "Europe",
+  "continent": "Europe",
+  "latitude": 51.1657,
+  "longitude": 10.4515,
+  "objects": [
+	{
+	  "id": "Paris",
+	  "title": "Paris",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 48.8566,
+	  "longitude": 2.3522,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Berlin",
+	  "title": "Berlin",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 52.5200,
+	  "longitude": 13.4050,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "London",
+	  "title": "London",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 51.5074,
+	  "longitude": -0.1278,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Rome",
+	  "title": "Rome",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 41.9028,
+	  "longitude": 12.4964,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Madrid",
+	  "title": "Madrid",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 40.4168,
+	  "longitude": -3.7038,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Oslo",
+	  "title": "Oslo",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 59.9139,
+	  "longitude": 10.7522,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Stockholm",
+	  "title": "Stockholm",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 59.3293,
+	  "longitude": 18.0686,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Copenhagen",
+	  "title": "Copenhagen",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 55.6761,
+	  "longitude": 12.5683,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Vienna",
+	  "title": "Vienna",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 48.2082,
+	  "longitude": 16.3738,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Athens",
+	  "title": "Athens",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 37.9838,
+	  "longitude": 23.7275,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Amsterdam",
+	  "title": "Amsterdam",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 52.3676,
+	  "longitude": 4.9041,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Brussels",
+	  "title": "Brussels",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 50.8503,
+	  "longitude": 4.3517,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bern",
+	  "title": "Bern",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 46.9480,
+	  "longitude": 7.4474,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Prague",
+	  "title": "Prague",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 50.0755,
+	  "longitude": 14.4378,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Warsaw",
+	  "title": "Warsaw",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 52.2297,
+	  "longitude": 21.0122,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Lisbon",
+	  "title": "Lisbon",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 38.7223,
+	  "longitude": -9.1393,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Dublin",
+	  "title": "Dublin",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 53.3498,
+	  "longitude": -6.2603,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Budapest",
+	  "title": "Budapest",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 47.4979,
+	  "longitude": 19.0402,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bucharest",
+	  "title": "Bucharest",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 44.4268,
+	  "longitude": 26.1025,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bratislava",
+	  "title": "Bratislava",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 48.1486,
+	  "longitude": 17.1077,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Helsinki",
+	  "title": "Helsinki",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 60.1695,
+	  "longitude": 24.9354,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Vilnius",
+	  "title": "Vilnius",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 54.6872,
+	  "longitude": 25.2797,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Riga",
+	  "title": "Riga",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 56.9496,
+	  "longitude": 24.1052,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Tallinn",
+	  "title": "Tallinn",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 59.4370,
+	  "longitude": 24.7536,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Nicosia",
+	  "title": "Nicosia",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 35.1856,
+	  "longitude": 33.3823,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Valletta",
+	  "title": "Valletta",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 35.8989,
+	  "longitude": 14.5146,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Andorra la Vella",
+	  "title": "Andorra la Vella",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 42.5063,
+	  "longitude": 1.5218,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "San Marino",
+	  "title": "San Marino",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 43.9424,
+	  "longitude": 12.4578,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Vatican City",
+	  "title": "Vatican City",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 41.9029,
+	  "longitude": 12.4534,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Monaco",
+	  "title": "Monaco",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 43.7384,
+	  "longitude": 7.4246,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Ljubljana",
+	  "title": "Ljubljana",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 46.0569,
+	  "longitude": 14.5058,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Zagreb",
+	  "title": "Zagreb",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 45.8150,
+	  "longitude": 15.9819,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Moscow",
+	  "title": "Moscow",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 55.7558,
+	  "longitude": 37.6176,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Kyiv",
+	  "title": "Kyiv",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 50.4501,
+	  "longitude": 30.5234,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Sofia",
+	  "title": "Sofia",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 42.6977,
+	  "longitude": 23.3219,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Belgrade",
+	  "title": "Belgrade",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 44.7866,
+	  "longitude": 20.4489,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bucharest",
+	  "title": "Bucharest",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 44.4268,
+	  "longitude": 26.1025,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Chisinau",
+	  "title": "Chisinau",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 47.0105,
+	  "longitude": 28.8638,
+	  "description": "",
+	  "isFound": false
+	}
+  ]
+},
+
+{
+  "id": "Asia",
+  "title": "Asia",
+  "continent": "Asia",
+  "latitude": 34.0479,
+  "longitude": 100.6197,
+  "objects": [
+	{
+	  "id": "Tokyo",
+	  "title": "Tokyo",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 35.6895,
+	  "longitude": 139.6917,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "New Delhi",
+	  "title": "New Delhi",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 28.6139,
+	  "longitude": 77.209,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Seoul",
+	  "title": "Seoul",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 37.5665,
+	  "longitude": 126.978,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Beijing",
+	  "title": "Beijing",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 39.9042,
+	  "longitude": 116.4074,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Taipei",
+	  "title": "Taipei",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 25.033,
+	  "longitude": 121.5654,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Jakarta",
+	  "title": "Jakarta",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": -6.2088,
+	  "longitude": 106.8456,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bangkok",
+	  "title": "Bangkok",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 13.7563,
+	  "longitude": 100.5018,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Manila",
+	  "title": "Manila",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 14.5995,
+	  "longitude": 120.9842,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Hanoi",
+	  "title": "Hanoi",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 21.0285,
+	  "longitude": 105.8543,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Singapore",
+	  "title": "Singapore",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 1.3521,
+	  "longitude": 103.8198,
+	  "description": "",
+	  "isFound": false
+	}
+  ]
+},
+
+{
+  "id": "Australia and Oceania",
+  "title": "Australia and Oceania",
+  "continent": "Australia and Oceania",
+  "latitude": -23.698,
+  "longitude": 133.8807,
+  "objects": [
+	{
+	  "id": "Canberra",
+	  "title": "Canberra",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": -35.282,
+	  "longitude": 149.1287,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Wellington",
+	  "title": "Wellington",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": -41.2865,
+	  "longitude": 174.7762,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Suva",
+	  "title": "Suva",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": -18.1248,
+	  "longitude": 178.4501,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Port Moresby",
+	  "title": "Port Moresby",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": -9.4438,
+	  "longitude": 147.1803,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Apia",
+	  "title": "Apia",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": -13.833,
+	  "longitude": -171.833,
+	  "description": "",
+	  "isFound": false
+	}
+  ]
+},
+{
+  "id": "Africa",
+  "title": "Africa",
+  "continent": "Africa",
+  "latitude": 7.1881,
+  "longitude": 21.0936,
+  "objects": [
+	{
+	  "id": "Cairo",
+	  "title": "Cairo",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 30.0444,
+	  "longitude": 31.2357,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Nairobi",
+	  "title": "Nairobi",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -1.2864,
+	  "longitude": 36.8172,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Addis Ababa",
+	  "title": "Addis Ababa",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 9.0208,
+	  "longitude": 38.7465,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Pretoria",
+	  "title": "Pretoria",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -25.7463,
+	  "longitude": 28.1881,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Abuja",
+	  "title": "Abuja",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 9.0579,
+	  "longitude": 7.4951,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Algiers",
+	  "title": "Algiers",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 36.7372,
+	  "longitude": 3.0866,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Luanda",
+	  "title": "Luanda",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -8.8399,
+	  "longitude": 13.2894,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Gaborone",
+	  "title": "Gaborone",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -24.6282,
+	  "longitude": 25.9231,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Ouagadougou",
+	  "title": "Ouagadougou",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 12.3714,
+	  "longitude": -1.5197,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bujumbura",
+	  "title": "Bujumbura",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -3.3783,
+	  "longitude": 29.3599,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Yaounde",
+	  "title": "Yaounde",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 3.848,
+	  "longitude": 11.5021,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bangui",
+	  "title": "Bangui",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 4.3947,
+	  "longitude": 18.5582,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "N'Djamena",
+	  "title": "N'Djamena",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 12.1131,
+	  "longitude": 15.0495,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Moroni",
+	  "title": "Moroni",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -11.7172,
+	  "longitude": 43.2479,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Kinshasa",
+	  "title": "Kinshasa",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -4.4419,
+	  "longitude": 15.2663,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Brazzaville",
+	  "title": "Brazzaville",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -4.2634,
+	  "longitude": 15.2429,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Yamoussoukro",
+	  "title": "Yamoussoukro",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 6.8279,
+	  "longitude": -5.2893,
+	  "description": "",
+	  "isFound": false
+	}
+  ]
+}
+]
+
+
+
+
+
+
+
+
+
+
+

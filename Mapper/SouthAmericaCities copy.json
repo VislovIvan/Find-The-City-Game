@@ -1,0 +1,350 @@
+{
+  "id": "South America",
+  "title": "South America",
+  "continent": "South America",
+  "latitude": -14.235,
+  "longitude": -51.9253,
+  "objects": [
+	{
+	  "id": "Sao Paulo",
+	  "title": "Sao Paulo",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -23.5505,
+	  "longitude": -46.6333,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Buenos Aires",
+	  "title": "Buenos Aires",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -34.6037,
+	  "longitude": -58.3816,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Rio de Janeiro",
+	  "title": "Rio de Janeiro",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -22.9068,
+	  "longitude": -43.1729,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Lima",
+	  "title": "Lima",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -12.0464,
+	  "longitude": -77.0428,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bogota",
+	  "title": "Bogota",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 4.7109,
+	  "longitude": -74.0721,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Santiago",
+	  "title": "Santiago",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -33.4489,
+	  "longitude": -70.6693,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Brasilia",
+	  "title": "Brasilia",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -15.8267,
+	  "longitude": -47.9218,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Leticia",
+	  "title": "Leticia",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -4.2153,
+	  "longitude": -69.9408,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Quito",
+	  "title": "Quito",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -0.1807,
+	  "longitude": -78.4678,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Guayaquil",
+	  "title": "Guayaquil",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -2.1709,
+	  "longitude": -79.9224,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "La Paz",
+	  "title": "La Paz",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -16.4897,
+	  "longitude": -68.1193,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Paramaribo",
+	  "title": "Paramaribo",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 5.852,
+	  "longitude": -55.2038,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Cayenne",
+	  "title": "Cayenne",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 4.922,
+	  "longitude": -52.3135,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Georgetown",
+	  "title": "Georgetown",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 6.8013,
+	  "longitude": -58.1551,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Port of Spain",
+	  "title": "Port of Spain",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 10.6549,
+	  "longitude": -61.5177,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Montevideo",
+	  "title": "Montevideo",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -34.9011,
+	  "longitude": -56.1645,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Asuncion",
+	  "title": "Asuncion",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -25.2637,
+	  "longitude": -57.5759,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Cochabamba",
+	  "title": "Cochabamba",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -17.3932,
+	  "longitude": -66.1561,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Santa Cruz de la Sierra",
+	  "title": "Santa Cruz de la Sierra",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -17.8,
+	  "longitude": -63.1667,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Campo Grande",
+	  "title": "Campo Grande",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -20.4697,
+	  "longitude": -54.6201,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Cuiaba",
+	  "title": "Cuiaba",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -15.601,
+	  "longitude": -56.0974,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Boa Vista",
+	  "title": "Boa Vista",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 2.8235,
+	  "longitude": -60.6753,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Manaus",
+	  "title": "Manaus",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -3.119,
+	  "longitude": -60.0217,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Teresina",
+	  "title": "Teresina",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -5.0919,
+	  "longitude": -42.8034,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Fortaleza",
+	  "title": "Fortaleza",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -3.7172,
+	  "longitude": -38.5431,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Joao Pessoa",
+	  "title": "Joao Pessoa",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -7.115,
+	  "longitude": -34.8641,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Belem",
+	  "title": "Belem",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -1.4558,
+	  "longitude": -48.5044,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Porto Velho",
+	  "title": "Porto Velho",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -8.7608,
+	  "longitude": -63.9019,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Palmas",
+	  "title": "Palmas",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -10.1837,
+	  "longitude": -48.333,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Salvador",
+	  "title": "Salvador",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -12.9714,
+	  "longitude": -38.5014,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Recife",
+	  "title": "Recife",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -8.0476,
+	  "longitude": -34.877,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Natal",
+	  "title": "Natal",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -5.7945,
+	  "longitude": -35.211,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Macapa",
+	  "title": "Macapa",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 0.0349,
+	  "longitude": -51.0668,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Rio Branco",
+	  "title": "Rio Branco",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -9.9738,
+	  "longitude": -67.8249,
+	  "description": "",
+	  "isFound": false
+	}
+  ]
+}
+

@@ -1,0 +1,110 @@
+{
+  "id": "Asia",
+  "title": "Asia",
+  "continent": "Asia",
+  "latitude": 34.0479,
+  "longitude": 100.6197,
+  "objects": [
+	{
+	  "id": "Tokyo",
+	  "title": "Tokyo",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 35.6895,
+	  "longitude": 139.6917,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "New Delhi",
+	  "title": "New Delhi",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 28.6139,
+	  "longitude": 77.209,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Seoul",
+	  "title": "Seoul",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 37.5665,
+	  "longitude": 126.978,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Beijing",
+	  "title": "Beijing",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 39.9042,
+	  "longitude": 116.4074,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Taipei",
+	  "title": "Taipei",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 25.033,
+	  "longitude": 121.5654,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Jakarta",
+	  "title": "Jakarta",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": -6.2088,
+	  "longitude": 106.8456,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bangkok",
+	  "title": "Bangkok",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 13.7563,
+	  "longitude": 100.5018,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Manila",
+	  "title": "Manila",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 14.5995,
+	  "longitude": 120.9842,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Hanoi",
+	  "title": "Hanoi",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 21.0285,
+	  "longitude": 105.8543,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Singapore",
+	  "title": "Singapore",
+	  "category": {"city": {}},
+	  "facts": [],
+	  "latitude": 1.3521,
+	  "longitude": 103.8198,
+	  "description": "",
+	  "isFound": false
+	}
+  ]
+}
+

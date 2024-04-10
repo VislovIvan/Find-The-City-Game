@@ -1,0 +1,180 @@
+{
+  "id": "Africa",
+  "title": "Africa",
+  "continent": "Africa",
+  "latitude": 7.1881,
+  "longitude": 21.0936,
+  "objects": [
+	{
+	  "id": "Cairo",
+	  "title": "Cairo",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 30.0444,
+	  "longitude": 31.2357,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Nairobi",
+	  "title": "Nairobi",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -1.2864,
+	  "longitude": 36.8172,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Addis Ababa",
+	  "title": "Addis Ababa",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 9.0208,
+	  "longitude": 38.7465,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Pretoria",
+	  "title": "Pretoria",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -25.7463,
+	  "longitude": 28.1881,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Abuja",
+	  "title": "Abuja",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 9.0579,
+	  "longitude": 7.4951,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Algiers",
+	  "title": "Algiers",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 36.7372,
+	  "longitude": 3.0866,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Luanda",
+	  "title": "Luanda",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -8.8399,
+	  "longitude": 13.2894,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Gaborone",
+	  "title": "Gaborone",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -24.6282,
+	  "longitude": 25.9231,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Ouagadougou",
+	  "title": "Ouagadougou",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 12.3714,
+	  "longitude": -1.5197,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bujumbura",
+	  "title": "Bujumbura",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -3.3783,
+	  "longitude": 29.3599,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Yaounde",
+	  "title": "Yaounde",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 3.848,
+	  "longitude": 11.5021,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Bangui",
+	  "title": "Bangui",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 4.3947,
+	  "longitude": 18.5582,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "N'Djamena",
+	  "title": "N'Djamena",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 12.1131,
+	  "longitude": 15.0495,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Moroni",
+	  "title": "Moroni",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -11.7172,
+	  "longitude": 43.2479,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Kinshasa",
+	  "title": "Kinshasa",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -4.4419,
+	  "longitude": 15.2663,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Brazzaville",
+	  "title": "Brazzaville",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": -4.2634,
+	  "longitude": 15.2429,
+	  "description": "",
+	  "isFound": false
+	},
+	{
+	  "id": "Yamoussoukro",
+	  "title": "Yamoussoukro",
+	  "category": {"city":{}},
+	  "facts": [],
+	  "latitude": 6.8279,
+	  "longitude": -5.2893,
+	  "description": "",
+	  "isFound": false
+	}
+  ]
+}
+
